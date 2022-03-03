@@ -1,0 +1,16 @@
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\bin\Debug\net5.0\ReadKeyMethodUseCase2.exe
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\bin\Debug\net5.0\ReadKeyMethodUseCase2.deps.json
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\bin\Debug\net5.0\ReadKeyMethodUseCase2.runtimeconfig.json
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\bin\Debug\net5.0\ReadKeyMethodUseCase2.runtimeconfig.dev.json
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\bin\Debug\net5.0\ReadKeyMethodUseCase2.dll
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\bin\Debug\net5.0\ReadKeyMethodUseCase2.pdb
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\obj\Debug\net5.0\ReadKeyMethodUseCase2.csproj.AssemblyReference.cache
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\obj\Debug\net5.0\ReadKeyMethodUseCase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\obj\Debug\net5.0\ReadKeyMethodUseCase2.AssemblyInfoInputs.cache
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\obj\Debug\net5.0\ReadKeyMethodUseCase2.AssemblyInfo.cs
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\obj\Debug\net5.0\ReadKeyMethodUseCase2.csproj.CoreCompileInputs.cache
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\obj\Debug\net5.0\ReadKeyMethodUseCase2.dll
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\obj\Debug\net5.0\refint\ReadKeyMethodUseCase2.dll
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\obj\Debug\net5.0\ReadKeyMethodUseCase2.pdb
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\obj\Debug\net5.0\ReadKeyMethodUseCase2.genruntimeconfig.cache
+C:\Users\spyros\source\repos\ReadKeyMethodUseCase2\ReadKeyMethodUseCase2\obj\Debug\net5.0\ref\ReadKeyMethodUseCase2.dll

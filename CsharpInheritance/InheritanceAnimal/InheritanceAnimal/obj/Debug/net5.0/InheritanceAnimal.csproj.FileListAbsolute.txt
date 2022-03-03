@@ -1,0 +1,16 @@
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\bin\Debug\net5.0\InheritanceAnimal.exe
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\bin\Debug\net5.0\InheritanceAnimal.deps.json
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\bin\Debug\net5.0\InheritanceAnimal.runtimeconfig.json
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\bin\Debug\net5.0\InheritanceAnimal.runtimeconfig.dev.json
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\bin\Debug\net5.0\InheritanceAnimal.dll
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\bin\Debug\net5.0\InheritanceAnimal.pdb
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\obj\Debug\net5.0\InheritanceAnimal.csproj.AssemblyReference.cache
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\obj\Debug\net5.0\InheritanceAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\obj\Debug\net5.0\InheritanceAnimal.AssemblyInfoInputs.cache
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\obj\Debug\net5.0\InheritanceAnimal.AssemblyInfo.cs
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\obj\Debug\net5.0\InheritanceAnimal.csproj.CoreCompileInputs.cache
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\obj\Debug\net5.0\InheritanceAnimal.dll
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\obj\Debug\net5.0\refint\InheritanceAnimal.dll
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\obj\Debug\net5.0\InheritanceAnimal.pdb
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\obj\Debug\net5.0\InheritanceAnimal.genruntimeconfig.cache
+C:\Users\spyros\source\repos\InheritanceAnimal\InheritanceAnimal\obj\Debug\net5.0\ref\InheritanceAnimal.dll

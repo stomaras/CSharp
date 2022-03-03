@@ -1,0 +1,16 @@
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\bin\Debug\net5.0\PropertiesPart1.exe
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\bin\Debug\net5.0\PropertiesPart1.deps.json
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\bin\Debug\net5.0\PropertiesPart1.runtimeconfig.json
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\bin\Debug\net5.0\PropertiesPart1.runtimeconfig.dev.json
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\bin\Debug\net5.0\PropertiesPart1.dll
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\bin\Debug\net5.0\PropertiesPart1.pdb
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\obj\Debug\net5.0\PropertiesPart1.csproj.AssemblyReference.cache
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\obj\Debug\net5.0\PropertiesPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\obj\Debug\net5.0\PropertiesPart1.AssemblyInfoInputs.cache
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\obj\Debug\net5.0\PropertiesPart1.AssemblyInfo.cs
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\obj\Debug\net5.0\PropertiesPart1.csproj.CoreCompileInputs.cache
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\obj\Debug\net5.0\PropertiesPart1.dll
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\obj\Debug\net5.0\refint\PropertiesPart1.dll
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\obj\Debug\net5.0\PropertiesPart1.pdb
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\obj\Debug\net5.0\PropertiesPart1.genruntimeconfig.cache
+C:\Users\spyros\source\repos\PropertiesPart1\PropertiesPart1\obj\Debug\net5.0\ref\PropertiesPart1.dll

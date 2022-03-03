@@ -1,0 +1,16 @@
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\bin\Debug\net5.0\ReadKeyMethodUseCases.exe
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\bin\Debug\net5.0\ReadKeyMethodUseCases.deps.json
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\bin\Debug\net5.0\ReadKeyMethodUseCases.runtimeconfig.json
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\bin\Debug\net5.0\ReadKeyMethodUseCases.runtimeconfig.dev.json
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\bin\Debug\net5.0\ReadKeyMethodUseCases.dll
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\bin\Debug\net5.0\ReadKeyMethodUseCases.pdb
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\obj\Debug\net5.0\ReadKeyMethodUseCases.csproj.AssemblyReference.cache
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\obj\Debug\net5.0\ReadKeyMethodUseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\obj\Debug\net5.0\ReadKeyMethodUseCases.AssemblyInfoInputs.cache
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\obj\Debug\net5.0\ReadKeyMethodUseCases.AssemblyInfo.cs
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\obj\Debug\net5.0\ReadKeyMethodUseCases.csproj.CoreCompileInputs.cache
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\obj\Debug\net5.0\ReadKeyMethodUseCases.dll
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\obj\Debug\net5.0\refint\ReadKeyMethodUseCases.dll
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\obj\Debug\net5.0\ReadKeyMethodUseCases.pdb
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\obj\Debug\net5.0\ReadKeyMethodUseCases.genruntimeconfig.cache
+C:\Users\spyros\source\repos\ReadKeyMethodUseCases\ReadKeyMethodUseCases\obj\Debug\net5.0\ref\ReadKeyMethodUseCases.dll

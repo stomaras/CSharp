@@ -1,0 +1,16 @@
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\bin\Debug\net5.0\BasicObjects.exe
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\bin\Debug\net5.0\BasicObjects.deps.json
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\bin\Debug\net5.0\BasicObjects.runtimeconfig.json
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\bin\Debug\net5.0\BasicObjects.runtimeconfig.dev.json
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\bin\Debug\net5.0\BasicObjects.dll
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\bin\Debug\net5.0\BasicObjects.pdb
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\obj\Debug\net5.0\BasicObjects.csproj.AssemblyReference.cache
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\obj\Debug\net5.0\BasicObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\obj\Debug\net5.0\BasicObjects.AssemblyInfoInputs.cache
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\obj\Debug\net5.0\BasicObjects.AssemblyInfo.cs
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\obj\Debug\net5.0\BasicObjects.csproj.CoreCompileInputs.cache
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\obj\Debug\net5.0\BasicObjects.dll
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\obj\Debug\net5.0\refint\BasicObjects.dll
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\obj\Debug\net5.0\BasicObjects.pdb
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\obj\Debug\net5.0\BasicObjects.genruntimeconfig.cache
+C:\Users\spyros\source\repos\BasicObjects\BasicObjects\obj\Debug\net5.0\ref\BasicObjects.dll
