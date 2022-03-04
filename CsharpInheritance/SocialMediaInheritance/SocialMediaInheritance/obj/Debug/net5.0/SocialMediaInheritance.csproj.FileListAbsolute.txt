@@ -1,0 +1,16 @@
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\bin\Debug\net5.0\SocialMediaInheritance.exe
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\bin\Debug\net5.0\SocialMediaInheritance.deps.json
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\bin\Debug\net5.0\SocialMediaInheritance.runtimeconfig.json
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\bin\Debug\net5.0\SocialMediaInheritance.runtimeconfig.dev.json
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\bin\Debug\net5.0\SocialMediaInheritance.dll
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\bin\Debug\net5.0\SocialMediaInheritance.pdb
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\obj\Debug\net5.0\SocialMediaInheritance.csproj.AssemblyReference.cache
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\obj\Debug\net5.0\SocialMediaInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\obj\Debug\net5.0\SocialMediaInheritance.AssemblyInfoInputs.cache
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\obj\Debug\net5.0\SocialMediaInheritance.AssemblyInfo.cs
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\obj\Debug\net5.0\SocialMediaInheritance.csproj.CoreCompileInputs.cache
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\obj\Debug\net5.0\SocialMediaInheritance.dll
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\obj\Debug\net5.0\refint\SocialMediaInheritance.dll
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\obj\Debug\net5.0\SocialMediaInheritance.pdb
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\obj\Debug\net5.0\SocialMediaInheritance.genruntimeconfig.cache
+C:\Users\spyros\source\repos\SocialMediaInheritance\SocialMediaInheritance\obj\Debug\net5.0\ref\SocialMediaInheritance.dll

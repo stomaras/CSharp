@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SocialMediaInheritance/1.0.0": {
+        "runtime": {
+          "SocialMediaInheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocialMediaInheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
